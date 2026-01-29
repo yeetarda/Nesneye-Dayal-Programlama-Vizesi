@@ -1,4 +1,4 @@
-# Nesneye-Dayal-Programlama-Vizesi
+# Akıllı kütüphane sistemi
 
 Bu proje Java tabanlı basit bir konsol uygulamasıdır. Verilerin kalıcı olması için SQLite veritabanı kullanılmıştır.
 
